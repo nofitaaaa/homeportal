@@ -73,7 +73,7 @@ hr {
 
 .navbar-blue {
     border-width:0;
-	background-color:#D91E18;
+	background-color:#388E3C;
     color:#ffffff;
     font-family:arial,sans-serif;
     top:0;
@@ -89,7 +89,7 @@ hr {
 .navbar-blue .dropdown-menu li > a {padding-left:30px;}
 
 .navbar-blue li>a:hover, .navbar-blue li>a:focus, .navbar-blue .open, .navbar-blue .open>a, .navbar-blue .open>a:hover, .navbar-blue .open>a:focus {
-   background-color:#EC644B;
+   background-color:#66BB6A;
    color:#fff;
 }
 
@@ -145,9 +145,10 @@ hr {
 #footer {
   height: auto;
   bottom: 0;
+  padding-top: 8px;
   position: fixed;
   width: 100%;
-  background-color: #D91E18;
+  background-color: #388E3C;
   text-align: center;
 }
 
@@ -213,6 +214,7 @@ h1,h2,h3 {
 
 .col-sm-9.full {
     width: 100%;
+    margin-bottom: 30px; 
 }
 
 .modal-header, .modal-footer {
@@ -253,7 +255,7 @@ small.text-muted {
   }
 
   .navbar-blue {
-	background-color:#D91E18;
+	background-color:#388E3C;
     top:0;
     width:100%;
     position:relative;
