@@ -53,6 +53,12 @@ hr {
 	padding-top:70px;
 }
 
+#getStart{
+  text-align:center;
+  background-image:url(assets/img/pexels-photo-428124.jpg) no-repeat;
+  background-size:cover;
+}
+
 .box {
   	bottom: 0; /* increase for footer use */
     left: 0;
