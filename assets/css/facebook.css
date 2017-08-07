@@ -122,6 +122,7 @@ hr {
 .logo {
   display:block;
   padding:3px;
+  transform: scaleY(-1);
   background-color:#fff;
   color:#3B5999;
   height:28px;
@@ -182,6 +183,13 @@ h1,h2,h3 {
 {
    resize: none;
 }
+
+ a.category {
+  margin-right: 10px;
+   color: #9E9E9E;
+   font-size: 18px;
+  float: right;
+ }
   
 .badge{
    color:#3B5999;
