@@ -302,7 +302,5 @@ small.text-muted {
 .iklan
 {
   width: 100%;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-left: 10px;
+  padding : 10px;
 }
