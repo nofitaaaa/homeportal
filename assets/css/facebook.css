@@ -299,8 +299,9 @@ small.text-muted {
   }
 }
 
-.iklan
+.topik
 {
-  width: 100%;
-  padding : 10px;
+  border-bottom: 1px solid grey;
 }
+
+
