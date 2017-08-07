@@ -147,10 +147,9 @@ hr {
   height: auto;
   bottom: 0;
   padding-top: 8px;
-  position: fixed;
-  width: 100%;
-  background-color: #388E3C;
+  color: #9E9E9E;
   text-align: center;
+  text-decoration: none;
 }
 
 /* bootstrap overrides */
