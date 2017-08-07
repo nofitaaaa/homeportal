@@ -338,6 +338,11 @@ small.text-muted {
   width: 100%;
 }
 
+.hokya:hover
+{
+  opacity: 0.7;
+}
+
 
 
 
