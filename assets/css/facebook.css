@@ -55,8 +55,9 @@ hr {
 
 #getStart{
   text-align:center;
-  background-image:url(assets/img/pexels-photo-428124.jpg) no-repeat;
-  background-size:cover;
+  background-color: #1565C0;
+  border-radius: 10px;
+  color: #EEEEEE; 
 }
 
 .box {
